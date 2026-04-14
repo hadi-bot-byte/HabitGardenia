@@ -1,4 +1,4 @@
-# 🎓 Student Grade Calculator
+#  Student Grade Calculator
 
 A Flutter app to manage student grades, calculate results, rank students and view class statistics.
 
@@ -9,10 +9,10 @@ A Flutter app to manage student grades, calculate results, rank students and vie
 - **Grade Calculation** — Automatically computes average, letter grade (A+ to F), and remark
 - **Class Ranking** — Results displayed in descending order (1st to last)
 - **Statistics Dashboard**:
-  - 🏆 Highest grade & top student
-  - 📉 Lowest grade & bottom student
-  - 📊 Class average
-  - ✅ Pass rate percentage
+  -  Highest grade & top student
+  -  Lowest grade & bottom student
+  -  Class average
+  -  Pass rate percentage
 - **Grade Distribution Chart** — Visual bar for each grade band
 - **Grading Key** — Built-in reference table
 
