@@ -1,4 +1,4 @@
-#  Student Grade Calculator
+#  Student Grade Calculator (Student Grader)
 
 A Flutter app to manage student grades, calculate results, rank students and view class statistics.
 
